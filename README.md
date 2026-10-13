@@ -1,8 +1,17 @@
+> [!NOTE]
+> Original mod made by [유즈키 유카리_結月ゆかり](https://live.warthunder.com/post/1111762/en/).
+> Huge thanks for the amazing mod <3
+
+> [!WARNING]
+> The whole conversion is performed by Claude
+> The mod is tested in game by me
+> Check releases to download the final archive
+
 # bubuki — crew voice mod, ported to the current War Thunder build
 
-`old/` is the original mod (FMOD Studio banks built July 2024) by [유즈키 유카리_結月ゆかり](https://live.warthunder.com/post/1111762/en/?comment=4282828).
-`new/` is the port, built on 2026‑10‑13 against the game files currently in `sound/`.
-`tools/` rebuilds `new/` from `old/` + the current game banks (see "Re-running after a game update").
+- `old/` is the original mod (FMOD Studio banks built July 2024) by [유즈키 유카리_結月ゆかり](https://live.warthunder.com/post/1111762/en/).
+- `new/` is the port, built on 2026‑10‑13 against the game files currently in `sound/`.
+- `tools/` rebuilds `new/` from `old/` + the current game banks (see "Re-running after a game update").
 
 ## What the old mod was, and why it stopped working
 
