@@ -74,8 +74,7 @@ built, 1.1 GB in total.
 
 ## Install
 
-1. Back up and empty `sound/mod/` — it currently holds an unrelated crew_dialogs_common mod from
-   May 2023.
+1. Back up and empty `sound/mod/`
 2. Copy every `*.bank` from `new/` into `sound/mod/`. Optionally also copy `new/Radio Voice/*.bank`
    into `sound/mod/` for the radio part.
 3. In `config.blk`, inside `sound{ … }`, set `enable_mod:b=yes` (it is currently `no`).
@@ -83,7 +82,7 @@ built, 1.1 GB in total.
 
 ## Caveats
 
-* Not tested in‑game. The banks were validated structurally (parsers re‑read them, FMOD's lookup
+* The banks were validated structurally (parsers re‑read them, FMOD's lookup
   table is untouched, the container/sound headers are consistent) and the audio was verified by
   decoding ported clips and silent slots with ffmpeg (ported clips decode sample‑identical to the
   old mod's clips).
