@@ -1,10 +1,13 @@
 > [!NOTE]
 > Original mod made by [유즈키 유카리_結月ゆかり](https://live.warthunder.com/post/1111762/en/).
+>
 > Huge thanks for the amazing mod <3
 
 > [!WARNING]
-> The whole conversion is performed by Claude
+> The whole conversion is performed by Claude without human supervision
+>
 > The mod is tested in game by me
+>
 > Check releases to download the final archive
 
 # bubuki — crew voice mod, ported to the current War Thunder build
